@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 36 36" style="enable-background:new 0 0 36 36;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#888;}
+</style>
 <g>
-	<polyline fill="none" stroke="#A5A5A5" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" points="17,7 17,1.0 11,1.144"/>
-	<line fill="none" stroke="#A5A5A5" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" x1="11.034" y1="6.894" x2="16.576" y2="1.535"/>
-	<polyline fill="none" stroke="#A5A5A5" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" points="1,11 1,16.856 7,16.856"/>
-	<line fill="none" stroke="#A5A5A5" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" x1="6.965" y1="11.107" x2="1.423" y2="16.466"/>
+	<g>
+		
+			<rect x="18.6" y="11.7" transform="matrix(0.7073 -0.7069 0.7069 0.7073 -2.0428 20.2194)" class="st0" width="9.6" height="1.7"/>
+		<polygon class="st0" points="19.9,8.2 27.9,8.2 27.9,16.1 26.1,16.1 26.1,9.9 19.9,9.9 		"/>
+	</g>
+	<g>
+		
+			<rect x="7.8" y="22.6" transform="matrix(0.7068 -0.7074 0.7074 0.7068 -12.8738 15.7831)" class="st0" width="9.6" height="1.7"/>
+		<g>
+			<polygon class="st0" points="8.1,19.9 9.9,19.9 9.9,26.1 16.1,26.1 16.1,27.9 8.1,27.9 			"/>
+		</g>
+	</g>
 </g>
 </svg>
